@@ -17,6 +17,8 @@ This project analyses a synthetic UK retail transaction dataset covering **2024 
 ## Workbook structure
 
 - **Dashboard** — executive KPI cards and summary charts
+## Dashboard Preview
+![Excel Business Performance Dashboard](dashboard_preview.png)
 - **Transactions** — transaction-level source data with formula-driven metrics
 - **Monthly Summary** — monthly revenue, profit and order trends
 - **Product Analysis** — product-level revenue, profit, margin and units
